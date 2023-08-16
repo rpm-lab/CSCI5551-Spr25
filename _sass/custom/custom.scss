@@ -1,0 +1,79 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'module';
+@import 'schedule';
+@import 'staffer';
+@import 'custom_navigation';
+@import 'footer';
+@import 'button';
+@import 'layout';
+@import 'colors';
+
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+details {
+  margin: 0 40px 1em;
+}
+
+iframe,
+summary {
+  max-width: 100%;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
+
+
+.data-img {
+  height: 22em;
+}
+
+.text-logo {
+  height: 1em;
+}
+
+.label-orange {
+  background-color: #f58842;
+}
+
+.label-green {
+  background-color: #1f9f1f;
+}
