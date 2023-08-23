@@ -23,6 +23,13 @@
         {% if page.office-hours %}
         <p class="staffer-meta"><span class="fw-700 text-grey-dk-100">Office Hours:</span> {{ page.office-hours | markdownify | strip_html }}</p>
         {% endif %}
+      {% elseif page.role == "Teaching Assistant" %}
+        {% if page.section %}
+        <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
+        {% endif %}
+        {% if page.office-hours %}
+        <p class="staffer-meta"><span class="fw-700 text-grey-dk-100">Office Hours:</span> {{ page.office-hours | markdownify | strip_html }}</p>
+        {% endif %}  
       {% elsif page.role == "Collaborating Instructor" %}
         {% if page.course-link %}
         <a href="{{ page.course-link }}" target="_blank" class="btn {{ page.course-style }}">{{ page.course-name }}</a>
