@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: CSCI5551 at the University of Minnesota.
+description: Home page for CSCI5551-02 Fall 2023 at the University of Minnesota.
 nav_order: 1
 permalink: /
 ---
@@ -9,7 +9,7 @@ permalink: /
 # Introduction to Intelligent Robotic Systems
 ## CSCI5551-02 Fall 2023 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 }
-## M, W 1:00PM-2:15PM CT - Rapson Hall 45
+## M, W 1:00PM-2:15PM CT - [Rapson Hall 45](https://roomsearch.umn.edu/rooms/f1b4771f-5e2e-42a7-aad9-0c5ca96459be)
 {: .fs-5 .fw-300 }
 
 <!-- This website describes a course still in development to be offered in the Spring 2023 semester.
@@ -18,7 +18,10 @@ permalink: /
 The objective of this course is to introduce students to the principles of robotics. The main topics of interest covered in the class include: transformations in 3D, kinematics, inverse kinematics, velocity kinematics, and introduction to robot programming with the Robot
 Operating System (ROS). If time permits, we will address other issues such as dynamics and those related to mobile robots, primarily sensing, estimation, and autonomous navigation later in the semester. Robot programming will be introduced in the context of the final project.
 
-This course builds on and is indebted to materials from Prof. Nikolaos Papanikolopoulos (Univ of Minnesota), Prof. Junaed Sattar (Univ of Minnesota), and Professor Elizabeth A. Croft (Dean, College of Engineering, Monash University, Australia).
+This course builds on and is indebted to materials from - 
+- Prof. Nikolaos Papanikolopoulos (Univ of Minnesota), 
+- Prof. Junaed Sattar (Univ of Minnesota), and 
+- Professor Elizabeth A. Croft (Dean, College of Engineering, Monash University, Australia).
 
 <div class="staff-row" >
 <div markdown="1" class="staff-column">
