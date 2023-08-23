@@ -58,7 +58,7 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: '"{{ site.baseurl }}/assets/images/'
   - scope:
       path: ''
       type: modules
