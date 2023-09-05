@@ -4,7 +4,9 @@
 
 **This website describes a course still in development to be offered in the Fall 2023 semester.**
 
-The objective of this course is to introduce students to the principles of robotics. The main topics of interest covered in the class include: transformations in 3D, kinematics, inverse kinematics, velocity kinematics, and introduction to robot programming with the Robot
-Operating System (ROS). If time permits, we will address other issues such as dynamics and those related to mobile robots, primarily sensing, estimation, and autonomous navigation later in the semester. Robot programming will be introduced in the context of the final project.
+The goal of this course is to introduce students to robotics principles, covering key topics such as 3D transformations, robot kinematics, forward and inverse kinematics, path planning, configuration spaces, sampling-based planning, basic motion control algorithms, and state estimation for mobile robots, which includes mapping, localization, and SLAM. Students will gain hands-on experience in programming robots in the [Java threejs](https://threejs.org/) environment. In later projects, they will have the opportunity to control real-world robots using their virtual counterparts using [ROS](https://www.ros.org/). There will be a open-ended final project where students can apply their skills acquired throughout the semester to explore new ideas. They will present their projects to a wider audience through poster presentations and demos.
 
-This course builds on and is indebted to materials from Prof. Nikolaos Papanikolopoulos (Univ of Minnesota), Prof. Junaed Sattar (Univ of Minnesota), and Professor Elizabeth A. Croft (Dean, College of Engineering, Monash University, Australia).
+This course builds on and is indebted to materials from - 
+- [Prof. Chad Jenkins](https://ocj.name/) (Univ of Michigan) and the staff of [autorob.org](https://autorob.org/#staff)
+- [Prof. Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/) (Univ of Minnesota), 
+- [Prof. Junaed Sattar](https://junaedsattar.cs.umn.edu/) (Univ of Minnesota)

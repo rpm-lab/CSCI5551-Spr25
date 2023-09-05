@@ -18,15 +18,12 @@ nav_order: 2
 
 ## About
 
-The objective of this course is to introduce students to the principles of robotics. The main topics of interest covered in the class include: transformations in 3D, kinematics, inverse kinematics, velocity kinematics, and introduction to robot programming with the Robot
-Operating System (ROS). If time permits, we will address other issues such as dynamics and those related to mobile robots, primarily sensing, estimation, and autonomous navigation later in the semester. Robot programming will be introduced in the context of the final
-project.
+The goal of this course is to introduce students to robotics principles, covering key topics such as 3D transformations, robot kinematics, forward and inverse kinematics, path planning, configuration spaces, sampling-based planning, basic motion control algorithms, and state estimation for mobile robots, which includes mapping, localization, and SLAM. Students will gain hands-on experience in programming robots in the [Java threejs](https://threejs.org/) environment. In later projects, they will have the opportunity to control real-world robots using their virtual counterparts using [ROS](https://www.ros.org/). There will be a open-ended final project where students can apply their skills acquired throughout the semester to explore new ideas. They will present their projects to a wider audience through poster presentations and demos.
 
 This course builds on and is indebted to materials from - 
-- Prof. Chad Jenkins (Univ of Michigan),
-- Prof. Nikolaos Papanikolopoulos (Univ of Minnesota), 
-- Prof. Junaed Sattar (Univ of Minnesota), and 
-- Professor Elizabeth A. Croft (Dean, College of Engineering, Monash University, Australia).
+- [Prof. Chad Jenkins](https://ocj.name/) (Univ of Michigan) and the staff of [autorob.org](https://autorob.org/#staff)
+- [Prof. Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/) (Univ of Minnesota), 
+- [Prof. Junaed Sattar](https://junaedsattar.cs.umn.edu/) (Univ of Minnesota)
 
 ## Modality
 
@@ -43,15 +40,13 @@ There will be no exams (i.e., midterms or final) in this year’s offering; all 
 - Forward Kinematics
 - Inverse Kinematics
 - Jacobians
-- Dynamics
 - Path Planning
 - Motion Control
 - Reactive Controllers
 - Configuration Spaces
 - Sampling-based Planning
 - Potential Fields
-- Robot Sensing Techniques
-- State Estimation
+- Mobile Robot State Estimation
 - Robot Programming
 
 
@@ -60,13 +55,8 @@ There will be no exams (i.e., midterms or final) in this year’s offering; all 
 - Strongly encouraged prerequisites:
   - Linear Algebra, Calculus, and Probability
   - Programming fluency in data structures in a classical programming language is essential.  
-  - Prior experience with the [Python programming language](https://www.python.org/) is strongly recommended.
+  - Prior experience with the [Python programming language](https://www.python.org/) or JavaScript is strongly recommended.
 
-- Recommended prerequisites: 
-  - CSCI 5511 - Artificial Intelligence I
-  - CSCI 5521 - Machine Learning Fundamentals
-    - Familiarity with concepts from machine learning will be helpful.
-  - CSCI 5551 - Introduction to Intelligent Robotic Systems
 
 ## Textbook
 
@@ -129,5 +119,5 @@ If you have a disability for which you are or may be requesting an accommodation
 
 ## Discussion Forum
 
-The [Ed Stem](link){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
+The [Ed Stem](https://edstem.org/us/courses/46318/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
 <b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
