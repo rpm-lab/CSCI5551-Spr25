@@ -5,6 +5,7 @@ description: Calendar with course content for CSCI5551-02 Fall 2023 at the Unive
 nav_order: 3
 ---
 
+# Tentative Schedule
 ![Calendar](/CSCI5551-Fall23-S2/assets/images/calendar_draft.png){: .cal-img }
 
 
