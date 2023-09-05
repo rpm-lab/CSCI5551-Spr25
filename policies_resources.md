@@ -16,6 +16,7 @@ This class follows standard university policies. It’s your responsibility to b
 - [Grading and transcripts](https://policy.umn.edu/education/gradingtranscripts)
 - [Sexual harassment](https://z.umn.edu/harrassment)
 - [Equity, diversity, equal opportunity, and affirmative action](https://policy.umn.edu/policy-regents/1027)
+- [Safety in classroom and campus](https://safe-campus.umn.edu/news/classroom-preparedness-resources?j=12057919&sfmc_sub=510003055&l=591_HTML&u=247167137&mid=6362953&jb=9)
 
 ## Mental Health Information
 
