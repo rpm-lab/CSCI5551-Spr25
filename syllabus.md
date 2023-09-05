@@ -122,21 +122,22 @@ Course grades will be determined according to the following criteria:
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
 
-  A ≥ 93.0%
-  A- ≥ 90.0% and < 93.0%
-  B+ ≥ 87.0% and < 90.0%
-  B ≥ 83.0% and < 87.0%
-  B- ≥ 80.0% and < 83.0%
-  C+ ≥ 77.0% and < 80.0%
-  C ≥ 73.0% and < 77.0%
-  C- ≥ 70.0% and < 73.0%
-  D+ ≥ 67.0% and < 70.0%
-  D ≥ 60.0% and < 67.0%
-  F < 60.0%
+- A ≥ 93.0%
+- A- ≥ 90.0% and < 93.0%
+- B+ ≥ 87.0% and < 90.0%
+- B ≥ 83.0% and < 87.0%
+- B- ≥ 80.0% and < 83.0%
+- C+ ≥ 77.0% and < 80.0%
+- C ≥ 73.0% and < 77.0%
+- C- ≥ 70.0% and < 73.0%
+- D+ ≥ 67.0% and < 70.0%
+- D ≥ 60.0% and < 67.0%
+- F < 60.0%
 
 For S/N grading, a satisfactory grade (S) requires a grade of 70.0% or above.
 
- ## Collaboration Policy
+
+## Collaboration Policy
 
 The free flow of discussion and ideas is encouraged. <b> But, everything you turn in must be your own work </b>, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. If you have any doubts about whether a particular action may be construed as cheating, ask the instructor for clarification before you do it. Cheating in this course will result in a grade of F for course and the [University policies](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty) will be followed.
 
