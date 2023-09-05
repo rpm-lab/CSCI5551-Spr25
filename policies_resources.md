@@ -5,16 +5,8 @@ description: University Policies and Resources for Students in CSCI5551-02 Fall 
 nav_order: 4
 ---
 
-## Collaboration Policy
-
-The free flow of discussion and ideas is encouraged. <b> But, everything you turn in must be your own work </b>, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. If you have any doubts about whether a particular action may be construed as cheating, ask the instructor for clarification before you do it. Cheating in this course will result in a grade of F for course and the [University policies](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty) will be followed.
-
-No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
-
-## Students with Disabilities
-If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources Center](https://disability.umn.edu/) (DRC).
-
 ## Standard University Policies
+
 This class follows standard university policies. It’s your responsibility to be familiar with:
 
 - [Student conduct code](https://z.umn.edu/policy-student_conduct_code)
@@ -24,3 +16,16 @@ This class follows standard university policies. It’s your responsibility to b
 - [Grading and transcripts](https://policy.umn.edu/education/gradingtranscripts)
 - [Sexual harassment](https://z.umn.edu/harrassment)
 - [Equity, diversity, equal opportunity, and affirmative action](https://policy.umn.edu/policy-regents/1027)
+
+## Mental Health Information
+
+The Department of Computer Science & Engineering strives to ensure all students have access to resources that will help them feel safe and supported. We are deeply committed to the wellbeing of all students, staff, and faculty. Your mental health is part of who you are and if you are unsure where to turn, we are here to help you. If you are encountering challenges, I encourage you to visit our department’s [Mental Health Resources](https://cse.umn.edu/cs/student-mental-health-resources) website and connect with one of our Mental Health Advocates, who are available to answer questions about campus mental health resources and services.
+
+## Disability Information
+
+University policy is to provide, on a flexible and individualized basis, reasonable accommodations to students who have documented disability conditions (e.g., physical, learning, psychiatric, vision, hearing, or systemic) that may affect their ability to participate in course activities or to meet course requirements. Students with disabilities are encouraged to contact the [Disability Resources Center](https://disability.umn.edu/) (DRC) to discuss individual needs for accommodations.
+
+If you have already been working with the Disability Resource Center and have a letter from them to help direct your instructors on to set you up for success, then please send that to me at the beginning of the semester. In many cases, you will find that this course is already designed to be accessible for students that would benefit from additional flexibility (e.g., non-timed quizzes instead of large exams, flexible late policy on programming assignments, etc.). However, if additional accommodations are necessary, I will make every reasonable effort to make sure this class is a good experience for you.
+
+## Acknowledgments
+Aspects of this syllabus (including this statement) were adapted from Evan Suma Rosenberg, Nathan Taylor, Daniel Keefe, Blair MacIntyre, Shana Watters, Lana Yarosh, and the American Association of University Professors Joint Statement on Rights and Freedoms of Students, because writing a good syllabus is hard.
