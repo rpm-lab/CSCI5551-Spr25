@@ -31,8 +31,7 @@ This section (002) of the course CSCI5551 is scheduled to be held in person, in 
 
 **Note:** If you want to access via UNITE you will have to register for section (001) taught by Prof. Nikolaos Papanikolopoulos.
 
-There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of programming projects, quizes, and final project presentations. 
-<!-- See Section 6 for detail grade breakdown. -->
+There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of programming projects, quizzes, and final project presentations. 
 
 ## Discussion Forum
 
