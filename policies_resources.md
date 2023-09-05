@@ -17,10 +17,10 @@ If you have a disability for which you are or may be requesting an accommodation
 ## Standard University Policies
 This class follows standard university policies. It’s your responsibility to be familiar with:
 
-[Student conduct code](https://z.umn.edu/policy-student_conduct_code)
-[Academic dishonesty](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty)
-[Makeup work for legitimate absences](https://policy.umn.edu/education/makeupwork)
-[Student responsibilities](https://policy.umn.edu/education/studentresp)
-[Grading and transcripts](https://policy.umn.edu/education/gradingtranscripts)
-[Sexual harassment](https://z.umn.edu/harrassment)
-[Equity, diversity, equal opportunity, and affirmative action](https://policy.umn.edu/policy-regents/1027)
+- [Student conduct code](https://z.umn.edu/policy-student_conduct_code)
+- [Academic dishonesty](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty)
+- [Makeup work for legitimate absences](https://policy.umn.edu/education/makeupwork)
+- [Student responsibilities](https://policy.umn.edu/education/studentresp)
+- [Grading and transcripts](https://policy.umn.edu/education/gradingtranscripts)
+- [Sexual harassment](https://z.umn.edu/harrassment)
+- [Equity, diversity, equal opportunity, and affirmative action](https://policy.umn.edu/policy-regents/1027)

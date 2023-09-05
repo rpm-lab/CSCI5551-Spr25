@@ -34,6 +34,11 @@ This section (002) of the course CSCI5551 is scheduled to be held in person, in 
 There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of programming projects, quizes, and final project presentations. 
 <!-- See Section 6 for detail grade breakdown. -->
 
+## Discussion Forum
+
+The [Ed Stem](https://edstem.org/us/courses/46318/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
+<b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
+
 ## Topics and Course Structure
 
 - Transformations
@@ -65,18 +70,25 @@ There is no required textbook for this course, however optional readings will be
 - [2] (Optional) J. Craig, “Introduction to Robotics: Mechanics and Control,” Pearson Prentice Hall, NJ, 4th edition, 2017 (ISBN-13: 9780133489798).
 - [3] (Optional but recommended for ROS) Wyatt Newman. “A Systematic Approach to Learning Robot Programming with ROS”. Chapman & Hall. Print ISBN: 9781315152691, 131515269X, eText ISBN: 9781498777872, 1498777872, Edition: 1st. This is freely available through the UMN libraries to students and staff here - [link](https://primo.lib.umn.edu/permalink/01UMN_INST/kj5btb/alma9975440385601701).
 
-<!-- ## Lectures
-
-Lectures will take place in-person on **Tuesdays and Thursdays from 2:30-3:45 PM CT in Rapson Hall 58**. 
-Remote access will be made available for the following reasons:
-- Weather impediment: Zoom link will be sent out via email prior to the lecture
-- Health reasons: Email kdesingh@umn.edu before the lecture with the reason to attend via Zoom, to obtain the meeting ID and password.  -->
-
 
 ## Guided Programming Projects
 
 You will complete 7 guided programming [projects](/CSCI5551-Fall23-S2/projects/) over the course of the semester. 
-<!-- All projects will be implemented using Python, Pytorch and Google Colab. -->
+
+## Open-ended Final Project
+
+You will have opportunity to explore your ideas in an open-ended setting where you can use the tools you have built over the semester to do a final project. You will have opportunity to present your project to wider audience (students, faculty at the U) via poster presentation. 
+**It is still TBD whether this project will be done in a group or individually.**
+
+### Use of AI Resources on Projects
+
+The project and assignments must be your own original work. However, the use of AI tools such as ChatGPT and GitHub Copilot to assist with portions of the implementation are permitted.  Although AI can be a powerful tool for a programmer, their use comes with additional responsibilities:
+
+- The bar for getting an A in this class is higher than just "getting it working." 
+- If you integrate AI-generated code, you are responsible for understanding how it works. Course staff will have many opportunities to check-in with the students over the course leading to requesting you to walk us through the project structure and code. 
+- You should expect that the course staff will ask you questions about how the implementation works, especially for complicated functions, and you should be able to provide an explanation that shows you have a thorough understanding of all code in your project.
+
+You are expected to read the University policy listed [here](/CSCI5551-Fall23-S2/policies_resources/).
 
 ## Quizzes
 
@@ -85,39 +97,25 @@ Throughout the semester, there will be a total of 24 quizzes administered throug
 Your final grade for the quizzes will be based on the best 20 quizzes out of 24 in case you miss any of the quizzes. No additional quizzes will be provided. 
 
 ### Use of AI Resources on Quizzes
-Use of AI tools is not permitted on quizzes and will be considered an academic integrity violation. This includes, but is not limited to, services such as ChatGPT, Claude, Bard, Bing Chat, and GitHub Copilot. At the beginning of each quiz, you will need to complete an honor statement affirming that the answers on the quiz are the result of your own work using only the allowed course materials. 
 
-<!-- ## Final Project
+Use of AI tools is **not permitted** on quizzes and will be considered an academic integrity violation. This includes, but is not limited to, services such as ChatGPT, Claude, Bard, Bing Chat, and GitHub Copilot. At the beginning of each quiz, you will need to complete an honor statement affirming that the answers on the quiz are the result of your own work using only the allowed course materials. 
+You are expected to read the University policy listed [here](/CSCI5551-Fall23-S2/policies_resources/).
 
-Instead of a final exam at the end of the semester, you will complete a final project working in groups of 1 to 3 students.
-
-The final project will entail five core deliverables: (1) a written review of a paper (2) an in-class paper presentation, (3) reproducing the published results of an existing deep learning paper, (4) extending the chosen paper's methods and (5) documenting your reproduction and extension in a written report.
-
-The objective of the final project is for you to gain experience with state of the art approaches in deep learning and a sense of how research in the area is conducted.
-
-
-
-<!-- ## Grading Policy
+## Grading Policy
 
 Course grades will be determined according to the following criteria:
 
- - Project 0:     12%
- - Project 1:     12%
- - Project 2:     12%
- - Project 3:     12%
- - Project 4:     12%
- - Final Project:
-   - Project proposal document: 2%
-   - In-class presentation on research topic-paper(s): 4%
-   - Paper Reproduction: 12%
-      - Algorithmic extension to obtain results on new data/idea/technique
-   - Video and poster: 4%
-   - Final report: 2%
- - 16 Pre-Lecture Quizzes: 16% (1% each) -->
+ - Project 0:     5%
+ - Project 1:     10%
+ - Project 2:     10%
+ - Project 3:     10%
+ - Project 4:     10%
+ - Project 5:     10%
+ - Project 6:     10%
 
+ - Final Project: 15%
+   - Project proposal document: 3%
+   - Project evaluation by guests: 6%
+   - Poster presentation (+video, +slides): 6%
 
-## Discussion Forum
-
-The [Ed Stem](https://edstem.org/us/courses/46318/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
-<b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
-
+ - 20 Pre-Lecture Quizzes: 20% (1% each)
