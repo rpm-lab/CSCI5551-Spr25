@@ -22,9 +22,9 @@ url: 'https://rpm-lab.github.io' # the base hostname & protocol for your site, e
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/logos/favicons/UMinn_favicon_dark.png"
 
-gdrive:
-  sheet: "Calendar_Schedule_Fall2023"
-  cache_period: 5 minutes
+# gdrive:
+#   sheet: "Calendar_Schedule_Fall2023"
+#   cache_period: 5 minutes
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
