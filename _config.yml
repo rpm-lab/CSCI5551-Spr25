@@ -34,8 +34,8 @@ heading_anchors: true
 permalink: pretty
 aux_links_new_tab: true
 aux_links:
-  # Forum:
-  #   - 'https://edstem.org/us/courses/31008/discussion/'
+  Ed Forum:
+    - 'https://edstem.org/us/courses/46318/discussion/'
   # Autograder:
   #   - 'https://cse-ag-csci5980.cs.umn.edu/web/course/2'   
   # Gradescope:
@@ -44,8 +44,8 @@ aux_links:
   #   - 'https://forms.gle/NNRGLovcmbGxydCK7'
   # View OH-Q:
   #   - 'https://docs.google.com/spreadsheets/d/1LdH0pp0o1wprXjn-qUk26rPjLg0TQV18lX-U1pPFDpI/edit?usp=sharing' 
-  # RPM Lab:
-  #   - 'https://rpm-lab.github.io/'   
+  RPM Lab:
+    - 'https://rpm-lab.github.io/'   
   # '<img src="/CSCI5980-Spr23-DeepRob//assets/logos/MnRI_logo.png" class="nav-img">':
   #   - 'https://cse.umn.edu/mnri'
 
