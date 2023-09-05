@@ -31,7 +31,7 @@ This section (002) of the course CSCI5551 is scheduled to be held in person, in 
 
 **Note:** If you want to access via UNITE you will have to register for section (001) taught by Prof. Nikolaos Papanikolopoulos.
 
-There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of homework, programming assignment, project presentations, demos, and reports. 
+There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of programming projects, quizes, and final project presentations. 
 <!-- See Section 6 for detail grade breakdown. -->
 
 ## Topics and Course Structure
@@ -61,9 +61,9 @@ There will be no exams (i.e., midterms or final) in this year’s offering; all 
 ## Textbook
 
 There is no required textbook for this course, however optional readings will be suggested from the textbook:
-[1] (Optional) K. Lynch, F. Park, “Modern Robotics: Mechanics, Planning, and Control”, Cambridge University Press New York, NY, USA, 1st Edition, 2017 (ISBN-13:9781107156302).
-[2] (Optional) J. Craig, “Introduction to Robotics: Mechanics and Control,” Pearson Prentice Hall, NJ, 4th edition, 2017 (ISBN-13: 9780133489798).
-[3] (Optional but recommended for ROS) Wyatt Newman. “A Systematic Approach to Learning Robot Programming with ROS”. Chapman & Hall. Print ISBN: 9781315152691, 131515269X, eText ISBN: 9781498777872, 1498777872, Edition: 1st. This is freely available through the UMN libraries to students and staff here - [link](https://primo.lib.umn.edu/permalink/01UMN_INST/kj5btb/alma9975440385601701).
+- [1] (Optional) K. Lynch, F. Park, “Modern Robotics: Mechanics, Planning, and Control”, Cambridge University Press New York, NY, USA, 1st Edition, 2017 (ISBN-13:9781107156302).
+- [2] (Optional) J. Craig, “Introduction to Robotics: Mechanics and Control,” Pearson Prentice Hall, NJ, 4th edition, 2017 (ISBN-13: 9780133489798).
+- [3] (Optional but recommended for ROS) Wyatt Newman. “A Systematic Approach to Learning Robot Programming with ROS”. Chapman & Hall. Print ISBN: 9781315152691, 131515269X, eText ISBN: 9781498777872, 1498777872, Edition: 1st. This is freely available through the UMN libraries to students and staff here - [link](https://primo.lib.umn.edu/permalink/01UMN_INST/kj5btb/alma9975440385601701).
 
 <!-- ## Lectures
 
@@ -73,10 +73,19 @@ Remote access will be made available for the following reasons:
 - Health reasons: Email kdesingh@umn.edu before the lecture with the reason to attend via Zoom, to obtain the meeting ID and password.  -->
 
 
-## Programming Projects
+## Guided Programming Projects
 
-You will complete programming [projects](/CSCI5551-Fall23-S2/projects/) over the course of the semester. 
+You will complete 7 guided programming [projects](/CSCI5551-Fall23-S2/projects/) over the course of the semester. 
 <!-- All projects will be implemented using Python, Pytorch and Google Colab. -->
+
+## Quizzes
+
+Throughout the semester, there will be a total of 24 quizzes administered through [gradescope](link){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM CT and must be submitted by 1:00PM CT. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects. 
+
+Your final grade for the quizzes will be based on the best 20 quizzes out of 24 in case you miss any of the quizzes. No additional quizzes will be provided. 
+
+### Use of AI Resources on Quizzes
+Use of AI tools is not permitted on quizzes and will be considered an academic integrity violation. This includes, but is not limited to, services such as ChatGPT, Claude, Bard, Bing Chat, and GitHub Copilot. At the beginning of each quiz, you will need to complete an honor statement affirming that the answers on the quiz are the result of your own work using only the allowed course materials. 
 
 <!-- ## Final Project
 
@@ -86,9 +95,7 @@ The final project will entail five core deliverables: (1) a written review of a 
 
 The objective of the final project is for you to gain experience with state of the art approaches in deep learning and a sense of how research in the area is conducted.
 
-## Quizzes
 
-Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/481744){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM CT and must be submitted by 2:30PM CT. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects. -->
 
 <!-- ## Grading Policy
 
@@ -108,16 +115,9 @@ Course grades will be determined according to the following criteria:
    - Final report: 2%
  - 16 Pre-Lecture Quizzes: 16% (1% each) -->
 
-## Collaboration Policy
-
-The free flow of discussion and ideas is encouraged. <b> But, everything you turn in must be your own work </b>, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. If you have any doubts about whether a particular action may be construed as cheating, ask the instructor for clarification before you do it. Cheating in this course will result in a grade of F for course and the [University policies](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty) will be followed.
-
-No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
-
-## Students with Disabilities
-If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources Center](https://disability.umn.edu/) (DRC).
 
 ## Discussion Forum
 
 The [Ed Stem](https://edstem.org/us/courses/46318/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
 <b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
+
