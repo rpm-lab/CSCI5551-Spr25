@@ -2,7 +2,7 @@
     <!-- Data from Google Sheet will be displayed here -->
   </div>
   <script>
-    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLm4n1lofD_RaVTBI62Hm1QIgXDLx3x-1mP3M4i2B9kXNp_5r0Ad1chyfu0fyJp7JKZ5moGxVpPqBX/pubhtml')
+    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLm4n1lofD_RaVTBI62Hm1QIgXDLx3x-1mP3M4i2B9kXNp_5r0Ad1chyfu0fyJp7JKZ5moGxVpPqBX/pub?gid=0&single=true&output=csv')
       .then(response => response.json())
       .then(data => {
         const sheetData = data.feed.entry;
