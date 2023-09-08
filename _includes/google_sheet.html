@@ -1,0 +1,23 @@
+<div id="google-sheet-data">
+    <!-- Data from Google Sheet will be displayed here -->
+  </div>
+  <script>
+    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLm4n1lofD_RaVTBI62Hm1QIgXDLx3x-1mP3M4i2B9kXNp_5r0Ad1chyfu0fyJp7JKZ5moGxVpPqBX/pubhtml')
+      .then(response => response.json())
+      .then(data => {
+        const sheetData = data.feed.entry;
+        const targetDiv = document.getElementById('google-sheet-data');
+        sheetData.forEach(entry => {
+            // Loop through each column and display its value
+            for (const key in entry) {
+                if (key.startsWith('gsx$')) {
+                    const columnName = key.replace('gsx$', '');
+                    const cellValue = entry[key].$t;
+                    const element = document.createElement('p');
+                    element.textContent = `${columnName}: ${cellValue}`;
+                    targetDiv.appendChild(element);
+                }
+            }
+        });
+      });
+  </script>

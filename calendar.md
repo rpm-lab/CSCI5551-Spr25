@@ -8,6 +8,7 @@ nav_order: 3
 # Tentative Schedule
 ![Calendar](/CSCI5551-Fall23-S2/assets/images/calendar_draft.png){: .cal-img }
 
+{% include google_sheet.html %}
 
 <!-- <table>
     <thead>
