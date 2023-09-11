@@ -9,6 +9,6 @@ title: Week 2
     : [Video Lectures - Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/){: target="_blank" }
 
 09/13
-: **Lec 03**{: .label .label-purple }Representations I - Transformations
+: **Lec 03**{: .label .label-purple }**Representations I - Transformations**
 : **Project 0 out**{: .label .label-yellow }
-: **Quiz 01**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
+: [**Quiz 01**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
