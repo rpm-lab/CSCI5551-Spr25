@@ -38,8 +38,8 @@ aux_links:
     - 'https://edstem.org/us/courses/46318/discussion/'
   # Autograder:
   #   - 'https://cse-ag-csci5980.cs.umn.edu/web/course/2'   
-  # Gradescope:
-  #   - 'https://www.gradescope.com/courses/481744'  
+  Gradescope:
+    - 'https://www.gradescope.com/courses/611231'  
   # Join OH-Q:
   #   - 'https://forms.gle/NNRGLovcmbGxydCK7'
   # View OH-Q:
