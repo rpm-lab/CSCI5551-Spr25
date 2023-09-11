@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Current Schedule
 {% for module in site.modules %}
-{{ module }}
+{ module }
 {% endfor %}
 
 # Tentative Schedule
