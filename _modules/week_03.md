@@ -8,6 +8,6 @@ title: Week 3
 : [**Quiz 02**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
 
 09/20
-: **Lec 05**{: .label .label-purple }**Manipulation I - Forward Kinematics**
+: **Lec 05**{: .label .label-purple }[Manipulation I - Forward Kinematics](/CSCI5551-Fall23-S2/assets/slides/lec05_manipulation_1_fk_decision_making.pdf)
 : **Project 1 out**{: .label .label-yellow }
 : [**Quiz 03**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
