@@ -24,11 +24,11 @@ has_toc: false
 
 Introduction to JavaScript, Web Debugging, and the Autograder
 
-<!-- ## [Project 1](/CSCI5551-Fall23-S2/projects/project1/)
+## [Project 1](/CSCI5551-Fall23-S2/projects/project1/)
 
-Classification using K-Nearest Neighbors and Linear Models
+Matrices, Robot Models, and Forward Kinematics
 
-## [Project 2](/CSCI5551-Fall23-S2/projects/project2/)
+<!-- ## [Project 2](/CSCI5551-Fall23-S2/projects/project2/)
 
 Classification using Fully-connected and Convolutional Neural Networks
 

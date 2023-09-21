@@ -7,8 +7,12 @@ nav_order: 1
  
 # Project 0
 
+## Disclaimer
+
+<b> Please DO NOT distribute or post solutions to this project online (e.g. public GitHub repositories). We take violations of the honor code very seriously. </b>
+
 ## Overview
-The objective of the first project is to gain experience workin with JavaScript, Web Debugging, and the Autograder. In this project you will implement 5 simple functions with JavaScript.
+The objective of this project is to gain experience working with JavaScript, Web Debugging, and the Autograder. In this project you will implement 5 simple functions with JavaScript.
 
 
 ## Instructions
