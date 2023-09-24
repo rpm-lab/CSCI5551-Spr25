@@ -29,7 +29,7 @@ The objective of this project is to gain experience working with JavaScript, Web
     - Each line with "Result: FAIL" should change to "Result: PASS" once you implement the function correctly.
 
 4. <b>Submit your `home.js` file for grading</b>
-    - The autograder is still being set up on the department's side, so we'll update the link here as soon as that's done.
+    - The autograder can be found here: [https://cse-ag-csci5551.cse.umn.edu/](https://cse-ag-csci5551.cse.umn.edu/)
 
 ## Deadline
 
