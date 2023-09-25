@@ -36,8 +36,8 @@ aux_links_new_tab: true
 aux_links:
   Ed Forum:
     - 'https://edstem.org/us/courses/46318/discussion/'
-  # Autograder:
-  #   - 'https://cse-ag-csci5980.cs.umn.edu/web/course/2'   
+  Autograder:
+    - 'https://cse-ag-csci5551.cse.umn.edu/'   
   Gradescope:
     - 'https://www.gradescope.com/courses/611231'  
   # Join OH-Q:

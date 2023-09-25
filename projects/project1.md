@@ -48,7 +48,7 @@ The objective of this project is to implement matrix operations, robot joint ini
     <br>![mr2.png](/CSCI5551-Fall23-S2/assets/projects/P1/mr2.png) ![crawler.png](/CSCI5551-Fall23-S2/assets/projects/P1/crawler.png) ![urdf.png](/CSCI5551-Fall23-S2/assets/projects/P1/urdf.png) ![fetch.png](/CSCI5551-Fall23-S2/assets/projects/P1/fetch.png) ![sawyer.png](/CSCI5551-Fall23-S2/assets/projects/P1/sawyer.png) ![baxter.png](/CSCI5551-Fall23-S2/assets/projects/P1/baxter.png)
 
 6. <b>Submit your `kineval/kineval_matrix.js,` `kineval/kineval_robot_init_joints.js,` and `kineval/kineval_forward_kinematics.js` files for grading</b>
-    - The autograder is still being set up on the department's side, so we'll update the link here as soon as that's done.
+    - The autograder is available at [https://cse-ag-csci5551.cse.umn.edu/](https://cse-ag-csci5551.cse.umn.edu/)
 
 
 ## Deadline
