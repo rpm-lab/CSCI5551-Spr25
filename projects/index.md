@@ -28,11 +28,11 @@ Introduction to JavaScript, Web Debugging, and the Autograder
 
 Matrices, Robot Models, and Forward Kinematics
 
-<!-- ## [Project 2](/CSCI5551-Fall23-S2/projects/project2/)
+## [Project 2](/CSCI5551-Fall23-S2/projects/project2/)
 
-Classification using Fully-connected and Convolutional Neural Networks
+Robot Choreography with Joint States, Controls, and Finite State Machines
 
-## [Project 3](/CSCI5551-Fall23-S2/projects/project3/)
+<!-- ## [Project 3](/CSCI5551-Fall23-S2/projects/project3/)
 
 Detection using Convolutional Neural Networks
 
