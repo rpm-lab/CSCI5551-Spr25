@@ -88,7 +88,7 @@ The objective of this project is to implement a robot choreography system that e
 
 ## Deadline
 
-This project is due on <b>Monday, October 2nd at 11:59pm CT</b>.
+This project is due on <b>Wednesday, October 11th at 11:59pm CT</b>.
 
 ## Grading
 
