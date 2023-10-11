@@ -32,11 +32,11 @@ Matrices, Robot Models, and Forward Kinematics
 
 Robot Choreography with Joint States, Controls, and Finite State Machines
 
-<!-- ## [Project 3](/CSCI5551-Fall23-S2/projects/project3/)
+## [Project 3](/CSCI5551-Fall23-S2/projects/project3/)
 
-Detection using Convolutional Neural Networks
+Pseudoinverse, Jacobian, and Inverse Kinematics
 
-## [Project 4](/CSCI5551-Fall23-S2/projects/project4/)
+<!-- ## [Project 4](/CSCI5551-Fall23-S2/projects/project4/)
 
 State Estimation with Deep Learning -->
 
