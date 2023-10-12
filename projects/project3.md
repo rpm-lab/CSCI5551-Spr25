@@ -81,7 +81,7 @@ For this assignment, you will now control your robot to reach to a given point i
 
 ## Deadline
 
-This project is due on <b>Wednesday, Ocober 25th at 11:59pm CT</b>.
+This project is due on <b>Wednesday, October 25th at 11:59pm CT</b>.
 
 ## Grading
 
