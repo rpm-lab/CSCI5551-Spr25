@@ -48,7 +48,7 @@ For this assignment, you will now control your robot to reach to a given point i
             <source src="/CSCI5551-Fall23-S2/assets/projects/P3/inverse_kinematics.mp4" type="video/mp4">
         </video>
 
-        - <b>Jacobian</b> Computation of the Jacobian need only to occur with respect to the joints along the <b>chain from the robot base (exclusive) to the endeffector joint (inclusive)</b>.
+        - <b>Jacobian</b> Computation of the jacobian needs to only occur with joints along the <b>chain from the robot base (exclusive) to the endeffector joint (inclusive), not including fixed joints</b>.
 
         - <b>Position vs. Position + Orientation</b> The default IK behavior will be position-only endeffector control. Both endeffector position and orientation should be controlled when the boolean parameter <b>kineval.params.ik_orientation_included</b> is set to true, which can be done through the user interface (Inverse Kinematics->ik_orientation_included).
 
