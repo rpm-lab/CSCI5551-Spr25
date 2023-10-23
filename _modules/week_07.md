@@ -7,5 +7,5 @@ title: Week 7
 : [**Quiz 10**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
 
 10/18
-: **Lec 13**{: .label .label-purple }**Planning - 5 - Potential Fields**
+: **Lec 13**{: .label .label-purple }[**Planning - 5 - Potential Fields**](/CSCI5551-Fall23-S2/assets/slides/lec13_planning_5_potential_fields.pdf){: target="_blank" }
 : [**Quiz 11**{: .label .label-orange }](https://www.gradescope.com/courses/611231){: .project-link target="_blank" }
