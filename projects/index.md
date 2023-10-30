@@ -36,9 +36,9 @@ Robot Choreography with Joint States, Controls, and Finite State Machines
 
 Pseudoinverse, Jacobian, and Inverse Kinematics
 
-<!-- ## [Project 4](/CSCI5551-Fall23-S2/projects/project4/)
+## [Project 4](/CSCI5551-Fall23-S2/projects/project4/)
 
-State Estimation with Deep Learning -->
+Motion Planning with RRT-Connect in 2D and Configuration Space.
 
 <!-- ## Final Project
 
