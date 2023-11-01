@@ -8,5 +8,6 @@ The goal of this course is to introduce students to robotics principles, coverin
 
 This course builds on and is indebted to materials from - 
 - [Prof. Chad Jenkins](https://ocj.name/) (Univ of Michigan) and the staff of [autorob.org](https://autorob.org/#staff)
+- [Prof. Dieter Fox](https://homes.cs.washington.edu/~fox/) (Univ of Washington),
 - [Prof. Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/) (Univ of Minnesota), 
 - [Prof. Junaed Sattar](https://junaedsattar.cs.umn.edu/) (Univ of Minnesota)
