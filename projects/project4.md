@@ -83,7 +83,7 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
         - The robot cannot take steps longer than 1 (the 2-norm of the delta should be leq 1, analogous to eps=1 in 2D RRT).
 
     - When finished, open `http://localhost:8000/home.html?world=worlds/world_s.js`, move the robot to the opposite corner, press `x` to zoom out a bit, and press `m` to initiate the search. After the path is found, press `b` and `n` to move the robot through the found plan. It should look like the video below (Download and play this video if it freezes).
-    
+
 <video width="720" muted controls>
     <source src="/CSCI5551-Fall23-S2/assets/projects/P4/kineval_rrt.mp4" type="video/mp4">
 </video>
@@ -95,7 +95,7 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
 
 ## Deadline
 
-This project is due on <b>Monday, November 13th at 11:59pm CT</b>.
+This project is due on <b>Wednesday, November 15th at 11:59pm CT</b>.
 
 ## Grading
 
