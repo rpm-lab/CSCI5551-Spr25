@@ -45,6 +45,10 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
 
     - You can check your implementation by opening `http://localhost:8000/project_pathplan/search_canvas.html` in your browser. It will look like the video below.
 
+<video width="720" muted controls>
+    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/2d_rrt.mp4" type="video/mp4">
+</video>
+
 
 3. <b>Configuration space collision detection in `kineval/kineval_collision.js`</b>
 
@@ -57,6 +61,10 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
         - When finished, `kineval.poseIsCollision()` should return the name of the link in collision.
     
     - You can check your implementation by opening `http://localhost:8000/home.html` in your browser. The kineval code will automatically display the colliding link in red wireframes like the video below.
+
+<video width="720" muted controls>
+    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/kineval_collision.mp4" type="video/mp4">
+</video>
 
 4. <b>Configuration space RRT-Connect in `kineval/kineval_rrt_connect.js`</b>
 
@@ -75,6 +83,10 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
         - The robot cannot take steps longer than 1 (the 2-norm of the delta should be leq 1, analogous to eps=1 in 2D RRT).
 
     - When finished, open `http://localhost:8000/home.html?world=worlds/world_s.js`, move the robot to the opposite corner, press `x` to zoom out a bit, and press `m` to initiate the search. After the path is found, press `b` and `n` to move the robot through the found plan. It should look like the video below (Download and play this video if it freezes).
+    
+<video width="720" muted controls>
+    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/kineval_rrt.mp4" type="video/mp4">
+</video>
 
 5. <b>Submit your `project_pathplan/rrt.js`, `kineval/kineval_collision.js`, and `kineval/kineval_rrt_connect.js` </b>
     - The autograder is available at [https://cse-ag-csci5551.cse.umn.edu/](https://cse-ag-csci5551.cse.umn.edu/)
@@ -88,13 +100,3 @@ This project is due on <b>Monday, November 13th at 11:59pm CT</b>.
 ## Grading
 
 The project is worth a total of 10 points.
-
-<video width="720" muted controls>
-    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/2d_rrt.mp4" type="video/mp4">
-</video>
-<video width="720" muted controls>
-    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/kineval_collision.mp4" type="video/mp4">
-</video>
-<video width="720" muted controls>
-    <source src="/CSCI5551-Fall23-S2/assets/projects/P4/kineval_rrt.mp4" type="video/mp4">
-</video>
