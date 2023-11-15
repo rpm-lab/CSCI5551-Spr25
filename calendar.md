@@ -9,8 +9,8 @@ nav_order: 3
 {{ module }}
 {% endfor %}
 
-# Snapshot of Planned Schedule
-![Calendar](/CSCI5551-Fall23-S2/assets/images/calendar_draft.png){: .cal-img }
+<!-- # Snapshot of Planned Schedule
+![Calendar](/CSCI5551-Fall23-S2/assets/images/calendar_draft.png){: .cal-img } -->
 
 {% include google_sheet.html %}
 
