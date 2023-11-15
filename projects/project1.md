@@ -57,4 +57,4 @@ This project is due on <b>Monday, October 2nd at 11:59pm CT</b>.
 
 ## Grading
 
-The project is worth a total of 10 points.
+The project is worth a total of 12 points.
