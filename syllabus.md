@@ -112,7 +112,7 @@ Course grades will be determined according to the following criteria:
  - Project 5:     12%
 
  - Final Project: 15%
-   - Project proposal document: 3%
+   - Project proposal slides + presentation: 3%
    - Final project video: 6%
    - Poster presentation (evaluation by judges): 6%
 
