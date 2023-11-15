@@ -105,17 +105,16 @@ You are expected to read the University policy listed [here](/CSCI5551-Fall23-S2
 Course grades will be determined according to the following criteria:
 
  - Project 0:     5%
- - Project 1:     10%
- - Project 2:     10%
- - Project 3:     10%
- - Project 4:     10%
- - Project 5:     10%
- - Project 6:     10%
+ - Project 1:     12%
+ - Project 2:     12%
+ - Project 3:     12%
+ - Project 4:     12%
+ - Project 5:     12%
 
  - Final Project: 15%
    - Project proposal document: 3%
-   - Project evaluation by guests: 6%
-   - Poster presentation (+video, +slides): 6%
+   - Final project video: 6%
+   - Poster presentation (evaluation by judges): 6%
 
  - 20 Pre-Lecture Quizzes: 20% (1% each)
 
