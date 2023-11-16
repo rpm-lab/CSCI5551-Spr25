@@ -40,6 +40,10 @@ Pseudoinverse, Jacobian, and Inverse Kinematics
 
 Motion Planning with RRT-Connect in 2D and Configuration Space.
 
+## [Project 5](/CSCI5551-Fall23-S2/projects/project5/)
+
+Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines.
+
 <!-- ## Final Project
 
 Published paper review, presentation, reproduction, extension and report -->

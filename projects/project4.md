@@ -90,7 +90,7 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
 
 5. <b>Submit your `project_pathplan/rrt.js`, `kineval/kineval_collision.js`, and `kineval/kineval_rrt_connect.js` </b>
     - The autograder is available at [https://cse-ag-csci5551.cse.umn.edu/](https://cse-ag-csci5551.cse.umn.edu/)
-    - The autograder for `kineval/kineval_rrt_connect.js` is still under construction. Stay tuned for updates.
+    <!-- - The autograder for `kineval/kineval_rrt_connect.js` is still under construction. Stay tuned for updates. -->
 
 
 ## Deadline
