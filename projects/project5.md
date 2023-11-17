@@ -20,7 +20,7 @@ For this assignment, you will implement mobile manipulation using concepts you h
 
 1. <b>Start with your solutions to project 4</b>
     - Solutions to project 4 will be released on 11/17/2023 (Fri), 2 days after project 4 is due. You can also start from here.
-    - You must download 4 updated files to add support for mobile manipulation: `home.html`, `kineval/kineval.js`, `kineval/kineval_mobile_manipulate.js`, and `worlds/world_mobile_manipulate.js` [Download](assets/projects/P5/updated.zip)
+    - You must download 4 updated files to add support for mobile manipulation: `home.html`, `kineval/kineval.js`, `kineval/kineval_mobile_manipulate.js`, and `worlds/world_mobile_manipulate.js` [Download](/CSCI5551-Fall23-S2/assets/projects/P5/updated.zip)
         - After you update these files, you should see the red cube and blue goal bubble at `http://localhost:8000/home.html?world=worlds/world_mobile_manipulate.js`.
 
 2. <b>Finite State Machine Controller</b>
