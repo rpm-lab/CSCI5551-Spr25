@@ -44,6 +44,10 @@ Motion Planning with RRT-Connect in 2D and Configuration Space.
 
 Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines.
 
+## [Final Project](/CSCI5551-Fall23-S2/projects/final-project/)
+
+Open-ended Project.
+
 <!-- ## Final Project
 
 Published paper review, presentation, reproduction, extension and report -->
