@@ -20,7 +20,7 @@ has_toc: false
 --- -->
 
 
-## [Project 0](/CSCI5551-Fall23-S2/projects/project0/)
+<!-- ## [Project 0](/CSCI5551-Fall23-S2/projects/project0/)
 
 Introduction to JavaScript, Web Debugging, and the Autograder
 
@@ -46,7 +46,7 @@ Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machi
 
 ## [Final Project](/CSCI5551-Fall23-S2/projects/final-project/)
 
-Open-ended Project.
+Open-ended Project. -->
 
 <!-- ## Final Project
 
