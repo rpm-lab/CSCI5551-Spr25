@@ -4,10 +4,10 @@ title: Calendar
 description: Calendar with course content for CSCI5551-02 Fall 2023 at the University of Minnesota.
 nav_order: 3
 ---
-# Current Running Schedule
-{% for module in site.modules %}
+<!-- # Current Running Schedule -->
+<!-- {% for module in site.modules %}
 {{ module }}
-{% endfor %}
+{% endfor %} -->
 
 <h1> Snapshot of Planned Schedule </h1>
 <div>
