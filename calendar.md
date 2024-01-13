@@ -9,10 +9,15 @@ nav_order: 3
 {{ module }}
 {% endfor %}
 
+<h1> Snapshot of Planned Schedule </h1>
+<div>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQMklHg9700JewJbMwF7d5ZNibp5xxygNXpBAZf7CrqoS7RUwBQDwx6HaZtIuJFsWYmn8DNKjOJoz/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
+
 <!-- # Snapshot of Planned Schedule
 ![Calendar](/CSCI5551-Fall23-S2/assets/images/calendar_draft.png){: .cal-img } -->
 
-{% include google_sheet.html %}
+<!-- {% include google_sheet.html %} -->
 
 <!-- <table>
     <thead>
