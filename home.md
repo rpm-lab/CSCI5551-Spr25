@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Home
-description: Home page for CSCI5551-02 Fall 2023 at the University of Minnesota.
+description: Home page for CSCI5551 Spring 2024 at the University of Minnesota.
 nav_order: 1
 permalink: /
 ---
 
 # Introduction to Intelligent Robotic Systems
-## CSCI5551-02 Fall 2023 at The University of Minnesota - Twin Cities
+## CSCI5551 Spring 2024 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 }
-## M, W 1:00PM-2:15PM CT - [Rapson Hall 45](https://roomsearch.umn.edu/rooms/f1b4771f-5e2e-42a7-aad9-0c5ca96459be)
+## M, W 1:00PM-2:15PM CT - [Keller Hall 3-125](https://roomsearch.umn.edu/rooms/60421f0c-7245-4e8d-8b34-a24432b66e26)
 {: .fs-5 .fw-300 }
 
 <!-- This website describes a course still in development to be offered in the Spring 2023 semester.
