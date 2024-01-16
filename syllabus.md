@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: Course policies and information pertaining to Home page for CSCI5551-02 Fall 2023 at the University of Minnesota.
+description: Course policies and information pertaining to Home page for CSCI5551 Spring 2024 at the University of Minnesota.
 nav_order: 2
 ---
 
@@ -74,7 +74,7 @@ TODO
 
 ## Guided Programming Projects TODO
 
-You will complete 7 guided programming [projects](/CSCI5551-Fall23-S2/projects/) over the course of the semester. 
+You will complete 7 guided programming [projects](/CSCI5551-Spr24/projects/) over the course of the semester. 
 
 ## Open-ended Final Project TODO: 
 
@@ -89,7 +89,7 @@ The project and assignments must be your own original work. However, the use of 
 - If you integrate AI-generated code, you are responsible for understanding how it works. Course staff will have many opportunities to check-in with the students over the course leading to requesting you to walk us through the project structure and code. 
 - You should expect that the course staff will ask you questions about how the implementation works, especially for complicated functions, and you should be able to provide an explanation that shows you have a thorough understanding of all code in your project.
 
-You are expected to read the University policy listed [here](/CSCI5551-Fall23-S2/policies_resources/).
+You are expected to read the University policy listed [here](/CSCI5551-Spr24/policies_resources/).
 
 ## Quizzes TODO: 
 
@@ -100,7 +100,7 @@ Your final grade for the quizzes will be based on the best 20 quizzes out of 24 
 ### Use of AI Resources on Quizzes TODO: 
 
 Use of AI tools is **not permitted** on quizzes and will be considered an academic integrity violation. This includes, but is not limited to, services such as ChatGPT, Claude, Bard, Bing Chat, and GitHub Copilot. At the beginning of each quiz, you will need to complete an honor statement affirming that the answers on the quiz are the result of your own work using only the allowed course materials. 
-You are expected to read the University policy listed [here](/CSCI5551-Fall23-S2/policies_resources/).
+You are expected to read the University policy listed [here](/CSCI5551-Spr24/policies_resources/).
 
 ## Grading Policy TODO: 
 

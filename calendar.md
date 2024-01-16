@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-description: Calendar with course content for CSCI5551-02 Fall 2023 at the University of Minnesota.
+description: Calendar with course content for CSCI5551 Spring 2024 at the University of Minnesota.
 nav_order: 3
 ---
 <!-- # Current Running Schedule -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University Policies and Resources
-description: University Policies and Resources for Students in CSCI5551-02 Fall 2023 at the University of Minnesota.
+description: University Policies and Resources for Students in CSCI5551 Spring 2024 at the University of Minnesota.
 nav_order: 4
 ---
 
