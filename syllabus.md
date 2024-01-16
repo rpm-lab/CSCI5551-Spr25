@@ -42,7 +42,7 @@ The UNITE mode will live-stream lectures during the in-person session. The UNITE
 
 There will be no exams (i.e., midterms or final) in this year’s offering; all evaluation will thus take place in the form of programming projects, quizzes, and final project presentations. 
 
-## Discussion Forum TODO: 
+## Discussion Forum: 
 
 The [Ed Stem](https://edstem.org/us/courses/53766/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
 <b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
@@ -150,4 +150,4 @@ For S/N grading, a satisfactory grade (S) requires a grade of 70.0% or above.
 The free flow of discussion and ideas is encouraged. <b> But, everything you turn in must be your own work </b>, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. If you have any doubts about whether a particular action may be construed as cheating, ask the instructor for clarification before you do it. Cheating in this course will result in a grade of F for course and the [University policies](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty) will be followed.
 
 No code can be communicated, including verbally. Explicit use of external sources must be clearly cited. 
-### DO NOT post your code in public repositories (Github, Gitlab, Google-drive, Website, etc). If we find it, your grades will be retracted. 
+**DO NOT post your code in public repositories (Github, Gitlab, Google-drive, Website, etc). If we find it, your grades will be retracted.**
