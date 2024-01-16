@@ -11,6 +11,6 @@ nav_order: 3
 
 <h1> Snapshot of Planned Schedule </h1>
 <div>
-<iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQMklHg9700JewJbMwF7d5ZNibp5xxygNXpBAZf7CrqoS7RUwBQDwx6HaZtIuJFsWYmn8DNKjOJoz/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='70%' height='1000' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQMklHg9700JewJbMwF7d5ZNibp5xxygNXpBAZf7CrqoS7RUwBQDwx6HaZtIuJFsWYmn8DNKjOJoz/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 </div>
