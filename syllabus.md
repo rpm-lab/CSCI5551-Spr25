@@ -129,8 +129,9 @@ Course grades will be determined according to the following criteria:
  - Best 10 out of 12 In-class Quizzes: 10% (1% each)
 
  ### Late Day Tokens
+
  P1-6: 3 total late day tokens are available for students. After which a 25% daily penalty will be applied for late submissions. 
- P7 and Open-ended final project: No late days are available for these group projects. 
+ P7 and Open-ended final projects: No late days are available for these group projects. 
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
 
