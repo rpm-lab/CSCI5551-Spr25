@@ -101,7 +101,7 @@ You are expected to read the University policy listed [here](/CSCI5551-Spr24/pol
 
 ## Quizzes: 
 
-Throughout the semester, there will be a total of 12 quizzes administered via [Gradescope](https://www.gradescope.com/courses/711212). They will be released on Tuesdays 6pm and will be available till 12pm on Wednesdays. Each quiz will have 2 questions for 0.5 pts each. These questions will be within the scope of previously covered lectures and graded projects. 
+Throughout the semester, there will be a total of 12 quizzes administered via [Gradescope](https://www.gradescope.com/courses/711212). They will be released on Tuesdays 6pm and will be available till 12pm on Wednesdays. Each quiz will have 2 questions for 0.5 pts each. These questions will be within the scope of previously covered lectures and graded projects. They are designed to be answered in less than 5 mins each after you have reviewed the previous week's course material. **When you start the quiz, you will have 20 mins to answer them.**
 
 Your final grade for the quizzes will be based on the best 10 quizzes out of 12 in case you miss any of the quizzes. No additional quizzes will be provided. 
 
