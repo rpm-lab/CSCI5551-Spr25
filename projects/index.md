@@ -19,6 +19,9 @@ has_toc: false
 
 --- -->
 
+## [Project 1](/CSCI5551-Spr24/projects/project1/)
+
+Javascript, Depth-first Search, and Breadth-first Search
 
 <!-- ## [Project 0](/CSCI5551-Spr24/projects/project0/)
 
