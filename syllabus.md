@@ -101,8 +101,7 @@ You are expected to read the University policy listed [here](/CSCI5551-Spr24/pol
 
 ## Quizzes: 
 
-Throughout the semester, there will be a total of 12 quizzes administered in class toward the end of each Wednesday lectures. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects. 
-If you are on UNITE, these quizes will be made available online at the same time it is released for the in-class participants.
+Throughout the semester, there will be a total of 12 quizzes administered via [Gradescope](https://www.gradescope.com/courses/711212). They will be released on Tuesdays 6pm and will be available till 12pm on Wednesdays. Each quiz will have 2 questions for 0.5 pts each. These questions will be within the scope of previously covered lectures and graded projects. They are designed to be answered in less than 5 mins each after you have reviewed the previous week's course material. **When you start the quiz, you will have 20 mins to answer them.**
 
 Your final grade for the quizzes will be based on the best 10 quizzes out of 12 in case you miss any of the quizzes. No additional quizzes will be provided. 
 
@@ -127,6 +126,11 @@ Course grades will be determined according to the following criteria:
    - Final project video: 5%
    - Poster presentation (evaluation by judges): 3%
  - Best 10 out of 12 In-class Quizzes: 10% (1% each)
+
+ ### Late Day Tokens
+
+ P1-6: 3 total late day tokens are available for students. After which a 25% daily penalty will be applied for late submissions. 
+ P7 and Open-ended final projects: No late days are available for these group projects. 
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
 
