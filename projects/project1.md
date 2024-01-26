@@ -59,4 +59,4 @@ This project is due on <b>Wednesday, January 31st at 11:59pm CT</b>.
 
 ## Grading
 
-The project is worth a total of 12 points.
+The project is worth a total of 10 points.
