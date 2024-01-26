@@ -55,7 +55,7 @@ For this assignment, you will implement depth-first search and breadth-first sea
 
 ## Deadline
 
-This project is due on <b>Wednesday, November 29th at 11:59pm CT</b>.
+This project is due on <b>Wednesday, January 31st at 11:59pm CT</b>.
 
 ## Grading
 
