@@ -19,7 +19,7 @@ For this assignment, you will implement depth-first search and breadth-first sea
 1. <b>Environment Setup</b>
     - Download [kineval-stencil](/CSCI5551-Spr24/assets/projects/kineval-stencil.zip) and unzip it.
     - Open a terminal and execute `python -m http.server` in the root directory of the project to start an http server.
-    - Open a browser and go to `http://0.0.0.0:8000/project_pathplan/search_canvas.html`.
+    - Open a browser and go to `http://localhost:8000/project_pathplan/search_canvas.html`.
     - Open the developer tools console (Ctrl+Shift+J in Chrome) to probe variables like `search_alg`, `q_start_config`, `q_goal_config`, or `search_iter_count`.
 
     <video width="720" muted controls>
@@ -39,7 +39,7 @@ For this assignment, you will implement depth-first search and breadth-first sea
         - <b>Make sure you add nodes in E, W, S, N order to match the video and pass the autograder.</b>
         - <b>Make sure you set `search_iterate=false` after the search algorithm has finished.</b>
     - You only need to implement depth-first search and breadth-first search (not A-star, greedy best-first search, or min heap).
-    - To execute, open a browser and go to `http://0.0.0.0:8000/project_pathplan/search_canvas.html?search_alg=depth-first?planning_scene=narrow1`
+    - To execute, open a browser and go to `http://localhost:8000/project_pathplan/search_canvas.html?search_alg=depth-first?planning_scene=narrow1`
         <video width="720" muted controls>
             <source src="/CSCI5551-Spr24/assets/projects/P1/depth-first.mp4" type="video/mp4">
         </video>
