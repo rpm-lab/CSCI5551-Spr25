@@ -25,9 +25,10 @@ The objective of this project is to implement matrix operations, robot joint ini
 ## Instructions
 
 1. <b>Start with your solutions to project 1</b>
-    - Our solutions to project 1 will be released on 02/04/2024 (Sun), 3 days after project 1 is due. You can also start from here.
+    - <s>Our solutions to project 1 will be released on 02/04/2024 (Sun), 3 days after project 1 is due. You can also start from here.</s>
+    - Since P2 does not depend on P1, we will not release the solutions to P1. You can start from your solutions or the starter code from P1.
 
-2. <b>Unzip the starter code and open `home.html` in Google Chrome</b>
+2. <b>Open `home.html` in Google Chrome</b>
     - Once unzipped, you should see files such as `home.html,` `kineval/kineval_matrix.js,` `kineval/kineval_robot_init_joints.js,` and `kineval/kineval_forward_kinematics.js`.
     - Install Python 3 and run `python -m http.server` in the project directory. Then open `http://localhost:8000/home.html` in Google Chrome. It should look like this:
 
