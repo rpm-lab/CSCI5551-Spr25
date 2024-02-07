@@ -29,7 +29,7 @@ The objective of this project is to implement a robot choreography system that e
 ## Instructions
 
 1. <b>Start with your solutions to project 2</b>
-    - Our solutions to project 2 will be released on 02/11/2024 (Sun), 3 days after project 1 is due. You can also start from here.
+    - Our solutions to project 2 will be released on 02/11/2024 (Sun), 3 days after project 2 is due. You can also start from here.
 
 2. <b>Joint state and control in `kineval/kineval_quaternion.js` and `kineval/kineval_forward_kinematics.js`.</b>
 
