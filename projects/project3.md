@@ -29,7 +29,7 @@ The objective of this project is to implement a robot choreography system that e
 ## Instructions
 
 1. <b>Start with your solutions to project 2</b>
-    - Our solutions to project 2 will be released on 02/11/2024 (Sun), 3 days after project 2 is due. You can also start from here.
+    - Our solutions to project 2 will be released on 02/11/2024 (Sun), 3 days after project 2 is due.
 
 2. <b>Joint state and control in `kineval/kineval_quaternion.js` and `kineval/kineval_forward_kinematics.js`.</b>
 
@@ -72,7 +72,7 @@ The objective of this project is to implement a robot choreography system that e
 
 5. <b>FSM controller in `kineval/kineval_servo_control.js`</b>
 
-    - Once your pose setpoint controller is working, an FSM controller should be implemented in the function `kineval.setpointDanceSequence()` in `kineval/kineval_servo_control.js`. The reference implementation switches between the pose setpoints in `kineval.setpoints` based on two additional pieces of data: an array of indices `kineval.params.dance_sequence_index` and the current pose index `kineval.params.dance_pose_index`. `kineval.params.dance_sequence_index` will tell your FSM the order in which the setpoints in `kineval.setpoints` should be selected to be the control target. Note that using this convention allows you to easily select the same setpoint multiple times to produce repetition in your dance. `kineval.params.dance_pose_index` is used to keep track of the current index within the dance pose sequence.
+    - Once your pose setpoint controller is working, an FSM controller should be implemented in the function `kineval.setpointDanceSequence()` in `kineval/kineval_servo_control.js`. The reference implementation switches between the pose setpoints in `kineval.setpoints` based on two additional pieces of data: an array of indices `kineval.params.dance_sequence_index` and the current pose index `kineval.params.dance_pose_index`. `kineval.params.dance_sequence_index` will tell your FSM the order in which the setpoints in `kineval.setpoints` should be selected to be the control target. Note that using this convention allows you to easily select the same setpoint multiple times to produce repetition in your dance. `kineval.params.dance_pose_index` is used to keep track of the current index within the dance pose sequence. The intended usage is to increment the setpoint index based on time, so that e.g. you stay on setpoint 1 for 1s, 2 for 0.5s, etc. It's being called every frame because it's part of the main loop, but you need not  You can refer to kineval.setpointClockMovement() for getting the current time in seconds. 
 
     <video width="720" muted controls>
         <source src="/CSCI5551-Spr24/assets/projects/P3/fsm_controller.mp4" type="video/mp4">
