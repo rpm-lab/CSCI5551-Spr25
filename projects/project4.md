@@ -49,13 +49,13 @@ For this assignment, you will now control your robot to reach a given point in s
 
         ![example_jacobian](/CSCI5551-Spr24/assets/projects/P4/example_jacobian.PNG)
 
-        - <b>Position vs. Position + Orientation</b> The default IK behavior will be position-only endeffector control. Both endeffector position and orientation should be controlled when the boolean parameter <b>kineval.params.ik_orientation_included</b> is set to true, which can be done through the user interface (Inverse Kinematics->ik_orientation_included).
+        - <b>Position vs. Position + Orientation</b> The default IK behavior will be position-only endeffector control. Both endeffector position and orientation should be controlled when the boolean parameter <b>`kineval.params.ik_orientation_included`</b> is set to true, which can be done through the user interface (Inverse Kinematics->ik_orientation_included).
 
         <video width="720" muted controls>
             <source src="/CSCI5551-Spr24/assets/projects/P4/inverse_kinematics_orientation.mp4" type="video/mp4">
         </video>
 
-        - <b>Euler Angle Conversion</b> In order to handle the orientation of the endeffector in your IK implementation, you will need to calculate the orientation part of the error term, which will require you to implement a conversion from a rotation matrix to Euler angles. You may find an online reference to inform your implementation of this conversion or develop your own approach to the conversion calculation.
+        - <b>Euler Angle Conversion</b> In order to handle the orientation of the endeffector in your IK implementation, you will need to calculate the orientation part of the error term, which will require you to implement a conversion from a rotation matrix to Euler angles. [Here](https://eecs.qmul.ac.uk/~gslabaugh/publications/euler.pdf) is a great reference for converting the matrix to euler angles while avoiding gimbal lock.
 
     - <b>Global Parameters</b> `kineval.iterateIK()` should also respect global parameters for doing transpose vs. pseudoinverse on the jacobian (through boolean parameter <b>`kineval.params.ik_pseudoinverse`</b>) and step length of the IK iteration (through real-valued parameter <b>`kineval.params.ik_steplength`</b>). Note that these parameters can be changed through the user interface (under Inverse Kinematics). KinEval also maintains the current endeffector target information in the `kineval.params.ik_target` parameter.
 
@@ -65,7 +65,7 @@ For this assignment, you will now control your robot to reach a given point in s
 
     - <b>Usage</b> IK iterations can be invoked through the user interface (Inverse Kinematics->persist_ik) or by holding down the 'p' key. Further, the 'r'/'f' keys will move the target location up/down. You can also move the robot relative to the target using the robot base controls. When performing IK iterations, the endeffector and its target pose will be rendered as cube geometries in blue and green, respectively.
 
-    - <b>Global Variables</b> you will need to set three global variables in `kineval.iterateIK()`: robot.dx, robot.jacobian, and robot.dq. There is a comment in "kineval/kineval_inverse_kinematics.js" that specifies what each of these variables should hold. Please note that robot.dx and robot.jacobian should both have six rows, even if you are doing position-only IK.
+    - <b>Global Variables</b> you will need to set three global variables in `kineval.iterateIK()`: `robot.dx`, `robot.jacobian`, and `robot.dq`. There is a comment in `kineval.iterateIK()` of `kineval/kineval_inverse_kinematics.js` that specifies what each of these variables should hold. Please note that `robot.dx` and `robot.jacobian` should both have six rows, even if you are doing position-only IK.
 
     - <b>Random Trials</b> You can also try running the random time trial to test the performance of your IK algorithm. This will not be part of the autograder/grading, but may help you debug. In general, IK with transpose does well when the arm is stretched far out, while IK with pseudoinverse does well when the arm is close to the body.
 
