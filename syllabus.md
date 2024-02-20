@@ -127,7 +127,8 @@ Course grades will be determined according to the following criteria:
    - Poster presentation (evaluation by judges): 3%
  - Best 10 out of 12 In-class Quizzes: 10% (1% each)
 
- ### Late Day Tokens
+
+### Late Day Tokens
 
  P1-6: 3 total late day tokens are available for students. After which a 25% daily penalty will be applied for late submissions. 
  P7 and Open-ended final projects: No late days are available for these group projects. 
