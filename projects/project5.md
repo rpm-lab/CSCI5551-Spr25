@@ -99,7 +99,7 @@ For this assignment, you will now implement a RRT-Connect motion planner to let 
 
 ## Deadline
 
-This project is due on <b>Wednesday, March 13th at 11:59pm CT</b>.
+This project is due on <b>Wednesday, March 20th at 11:59pm CT</b>.
 
 ## Grading
 
