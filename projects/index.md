@@ -34,3 +34,7 @@ Robot Choreography with Joint States, Controls, and Finite State Machines
 ## [Project 4](/CSCI5551-Spr24/projects/project4/)
 
 Pseudoinverse, Jacobian, and Inverse Kinematics
+
+## [Project 5](/CSCI5551-Spr24/projects/project5/)
+
+RRT, Configuration Space, and Collision Detection
