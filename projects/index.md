@@ -38,3 +38,7 @@ Pseudoinverse, Jacobian, and Inverse Kinematics
 ## [Project 5](/CSCI5551-Spr24/projects/project5/)
 
 RRT, Configuration Space, and Collision Detection
+
+## [Project 6](/CSCI5551-Spr24/projects/project6/)
+
+Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines.
