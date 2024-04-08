@@ -122,9 +122,9 @@ Course grades will be determined according to the following criteria:
  - Project 6:     10%
  - Project 7:     15%
  - Final Project: 15%
-   - Project proposal slides + presentation: 2%
-   - Final project video: 5%
-   - Poster presentation (evaluation by judges): 3%
+   - Project proposal slides + presentation: 3%
+   - Final project video: 6%
+   - Poster presentation (evaluation by judges): 6%
  - Best 10 out of 12 In-class Quizzes: 10% (1% each)
 
 
