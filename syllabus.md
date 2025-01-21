@@ -32,7 +32,7 @@ This course builds on and is indebted to materials from -
 This section of the course CSCI5551 is scheduled to be held both on-campus and on UNITE. 
 
 ### On-campus mode:
-The On-campus class will be in Keller Hall 3-125 on Mondays and Wednesdays 1:00PM-2:15PM Central Time. 
+The On-campus class will be in Keller Hall 3-111 on Mondays and Wednesdays 1:00PM-2:15PM Central Time. 
 Students registered for the on-campus mode of the class are required to attend lectures in-person, as long as health and safety concerns and university regulations do not prevent them from doing so. In any case, it is highly recommended to keep the instructor informed of any circumstances that might be of concern for administering the course.
 The students enrolled in the on-campus section of this course will be able to access the lecture video archives on a **10 day delay** on UNITE portal (**not immediately**).
 Lecture slides will be made available on the [calendar](/CSCI5551-Spr25/calendar/) before each lecture. 
@@ -101,7 +101,7 @@ You are expected to read the University policy listed [here](/CSCI5551-Spr25/pol
 
 ## Quizzes: 
 
-Throughout the semester, there will be a total of 12 quizzes administered via [Gradescope](https://www.gradescope.com/courses/711212). They will be released on Tuesdays 6pm and will be available till 12pm on Wednesdays. Each quiz will have 2 questions for 0.5 pts each. These questions will be within the scope of previously covered lectures and graded projects. They are designed to be answered in less than 5 mins each after you have reviewed the previous week's course material. **When you start the quiz, you will have 20 mins to answer them.**
+Throughout the semester, there will be a total of 12 quizzes administered via [Gradescope](). They will be released on Tuesdays 6pm and will be available till 12pm on Wednesdays. Each quiz will have 2 questions for 0.5 pts each. These questions will be within the scope of previously covered lectures and graded projects. They are designed to be answered in less than 5 mins each after you have reviewed the previous week's course material. **When you start the quiz, you will have 20 mins to answer them.**
 
 Your final grade for the quizzes will be based on the best 10 quizzes out of 12 in case you miss any of the quizzes. No additional quizzes will be provided. 
 

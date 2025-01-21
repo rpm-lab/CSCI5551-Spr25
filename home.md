@@ -9,7 +9,7 @@ permalink: /
 # Introduction to Intelligent Robotic Systems
 ## CSCI5551 Spring 2025 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 }
-## M, W 1:00PM-2:15PM CT - [Keller Hall 3-125](https://roomsearch.umn.edu/rooms/60421f0c-7245-4e8d-8b34-a24432b66e26)
+## M, W 1:00PM-2:15PM CT - [Keller Hall 3-111](https://roomsearch.umn.edu/rooms/04c9ccd0-0761-4164-93df-dd0d494acecd)
 {: .fs-5 .fw-300 }
 
 <!-- This website describes a course still in development to be offered in the Spring 2025 semester.
