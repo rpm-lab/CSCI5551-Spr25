@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: Course policies and information pertaining to Home page for CSCI5551 Spring 2024 at the University of Minnesota.
+description: Course policies and information pertaining to Home page for CSCI5551 Spring 2025 at the University of Minnesota.
 nav_order: 2
 ---
 
@@ -35,7 +35,7 @@ This section of the course CSCI5551 is scheduled to be held both on-campus and o
 The On-campus class will be in Keller Hall 3-125 on Mondays and Wednesdays 1:00PM-2:15PM Central Time. 
 Students registered for the on-campus mode of the class are required to attend lectures in-person, as long as health and safety concerns and university regulations do not prevent them from doing so. In any case, it is highly recommended to keep the instructor informed of any circumstances that might be of concern for administering the course.
 The students enrolled in the on-campus section of this course will be able to access the lecture video archives on a **10 day delay** on UNITE portal (**not immediately**).
-Lecture slides will be made available on the [calendar](/CSCI5551-Spr24/calendar/) before each lecture. 
+Lecture slides will be made available on the [calendar](/CSCI5551-Spr25/calendar/) before each lecture. 
 
 ### UNITE mode:
 The UNITE mode will live-stream lectures during the in-person session. The UNITE-enrolled students will have access to the lecture videos on their UNITE portal.  
@@ -81,7 +81,7 @@ There is no required textbook for this course, however optional readings will be
 
 ## Guided Programming Projects:
 
-You will complete 7 guided programming [projects](/CSCI5551-Spr24/projects/) over the course of the semester. Projects 1-6 will use JavaScript webbased simulatipn environment. Please find the schedule for the same at [calendar](/CSCI5551-Spr24/calendar/). 
+You will complete 7 guided programming [projects](/CSCI5551-Spr25/projects/) over the course of the semester. Projects 1-6 will use JavaScript webbased simulatipn environment. Please find the schedule for the same at [calendar](/CSCI5551-Spr25/calendar/). 
 Project 7 will be a group project aimed toward a real-robot challenge. Number of students in a group is **TBD**. This same group will be retained for the Open-ended Final Project.
 
 ## Open-ended Final Project: 
@@ -97,7 +97,7 @@ The project and assignments must be your own original work. However, the use of 
 - If you integrate AI-generated code, you are responsible for understanding how it works. Course staff will have many opportunities to check-in with the students over the course leading to requesting you to walk us through the project structure and code. 
 - You should expect that the course staff will ask you questions about how the implementation works, especially for complicated functions, and you should be able to provide an explanation that shows you have a thorough understanding of all code in your project.
 
-You are expected to read the University policy listed [here](/CSCI5551-Spr24/policies_resources/).
+You are expected to read the University policy listed [here](/CSCI5551-Spr25/policies_resources/).
 
 ## Quizzes: 
 
@@ -108,7 +108,7 @@ Your final grade for the quizzes will be based on the best 10 quizzes out of 12 
 ### Use of AI Resources on Quizzes: 
 
 Use of AI tools is **NOT PERMITTED** on quizzes and will be considered an academic integrity violation. This includes, but is not limited to, services such as ChatGPT, Claude, Bard, Bing Chat, and GitHub Copilot. At the beginning of each quiz, you will need to complete an honor statement affirming that the answers on the quiz are the result of your own work using only the allowed course materials. 
-You are expected to read the University policy listed [here](/CSCI5551-Spr24/policies_resources/).
+You are expected to read the University policy listed [here](/CSCI5551-Spr25/policies_resources/).
 
 ## Grading Policy: 
 
