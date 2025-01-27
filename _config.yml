@@ -31,11 +31,11 @@ permalink: pretty
 aux_links_new_tab: true
 aux_links:
   Ed Forum:
-    # - 'https://edstem.org/us/courses/53766/discussion/'
+    - 'https://edstem.org/us/courses/75359/discussion/'
   Autograder:
-    # - 'https://cse-ag-csci5551.cse.umn.edu/web/course/2'   
+      - 'https://cse-ag-csci5551.cse.umn.edu/web/course/3'
   Gradescope:
-    # - 'https://www.gradescope.com/courses/711212'  
+      - 'https://www.gradescope.com/courses/969179'
   # Join OH-Q:
   #   - 'https://forms.gle/NNRGLovcmbGxydCK7'
   # View OH-Q:
