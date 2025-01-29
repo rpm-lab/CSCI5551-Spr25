@@ -18,10 +18,12 @@ has_toc: false
 {:toc}
 
 --- -->
-<!-- 
+
 ## [Project 1](/CSCI5551-Spr25/projects/project1/)
 
 Javascript, Depth-first Search, and Breadth-first Search
+
+<!-- 
 
 ## [Project 2](/CSCI5551-Spr25/projects/project2/)
 
