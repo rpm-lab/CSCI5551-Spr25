@@ -26,7 +26,7 @@ The objective of this project is to implement matrix operations, robot joint ini
 ## Instructions
 
 1. <b>Environment Setup</b>
-    - Download [p2-stencil](/CSCI5551-Spr25/assets/projects/kineval-p2.zip) and unzip it(the codebase will look much the same, but with regards to feedback we are trying to improve the documentation).
+    - Download [p2-stencil](/CSCI5551-Spr25/assets/projects/kinevalp2.zip) and unzip it(the codebase will look much the same, but with regards to feedback we are trying to improve the documentation).
     - Open a terminal and execute `python -m http.server` in the root directory of the project to start an http server.
 
 2. <b>Open `home.html` in Google Chrome</b>
