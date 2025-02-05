@@ -3,7 +3,7 @@ layout: page
 title: Project 2
 parent: Projects
 nav_order: 1
-nav_exclude: true
+nav_exclude: false
 ---
  
 # Project 2
@@ -25,9 +25,9 @@ The objective of this project is to implement matrix operations, robot joint ini
 
 ## Instructions
 
-1. <b>Start with your solutions to project 1</b>
-    - <s>Our solutions to project 1 will be released on 02/04/2024 (Sun), 3 days after project 1 is due. You can also start from here.</s>
-    - Since P2 does not depend on P1, we will not release the solutions to P1. You can start from your solutions or the starter code from P1.
+1. <b>Environment Setup</b>
+    - Download [p2-stencil](/CSCI5551-Spr25/assets/projects/kineval-p2.zip) and unzip it(the codebase will look much the same, but with regards to feedback we are trying to improve the documentation).
+    - Open a terminal and execute `python -m http.server` in the root directory of the project to start an http server.
 
 2. <b>Open `home.html` in Google Chrome</b>
     - Once unzipped, you should see files such as `home.html,` `kineval/kineval_matrix.js,` `kineval/kineval_robot_init_joints.js,` and `kineval/kineval_forward_kinematics.js`.
@@ -55,7 +55,7 @@ The objective of this project is to implement matrix operations, robot joint ini
 
 ## Deadline
 
-This project is due on <b>Wednesday, February 7th at 11:59pm CT</b>.
+This project is due on <b>Wednesday, February 12th at 11:59pm CT</b>.
 
 ## Grading
 
