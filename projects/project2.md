@@ -59,7 +59,7 @@ This project is due on <b>Wednesday, February 12th at 11:59pm CT</b>.
 
 ## (Optional) Bonus Task
 1. Implement the two functions "matrix_pseudoinverse()" and "matrix_invert_affine()" in "kineval/kineval_matrix.js"
-2. Construct and display the model of SPOT robot from our lab in the provided window. The urdf files of the robot is given here ![spot.urdf](/CSCI5551-Spr25/assets/projects/P2/spot_urdf_model.zip). You may need to write your own js files based on the provided urdf files, instead of using them directly. 
+2. Construct and display the model of SPOT robot from our lab in the provided window. The urdf files of the robot is given here: [spot.urdf](/CSCI5551-Spr25/assets/projects/P2/spot_urdf_model.zip). You may need to write your own js files based on the provided urdf files, instead of using them directly. 
 ## Grading
 
 The project is worth a total of 10 points (The bonus tasks won't be graded, and no deadline will be applied as well. However, you are encouraged to demonstrate them to the instructors if you are interested in exploring more and completing them). 
