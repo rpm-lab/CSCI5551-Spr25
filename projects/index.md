@@ -28,8 +28,9 @@ Javascript, Depth-first Search, and Breadth-first Search
 ## [Project 2](/CSCI5551-Spr25/projects/project2/)
 
 Matrices, Robot Models, and Forward Kinematics
-<!-- 
 
+
+<!-- 
 ## [Project 3](/CSCI5551-Spr25/projects/project3/)
 
 Robot Choreography with Joint States, Controls, and Finite State Machines
