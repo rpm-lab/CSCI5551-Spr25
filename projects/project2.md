@@ -26,7 +26,7 @@ The objective of this project is to implement matrix operations, robot joint ini
 ## Instructions
 
 1. <b>Environment Setup</b>
-    - Download [p2-stencil](/CSCI5551-Spr25/assets/projects/kinevalproject2.zip) and unzip it(the codebase will look much the same, but with regards to feedback we are trying to improve the documentation).
+    - Download [p2-stencil](/CSCI5551-Spr25/assets/projects/p2.zip) and unzip it(the codebase will look much the same, but with regards to feedback we are trying to improve the documentation).
     - Open a terminal and execute `python -m http.server` in the root directory of the project to start an http server.
     - Once unzipped, you should see files such as `home.html,` `kineval/kineval_matrix.js,` `kineval/kineval_robot_init_joints.js,` and `kineval/kineval_forward_kinematics.js`.
 
