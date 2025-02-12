@@ -3,7 +3,6 @@ layout: page
 title: Project 3
 parent: Projects
 nav_order: 1
-nav_exclude: true
 ---
  
 # Project 3
