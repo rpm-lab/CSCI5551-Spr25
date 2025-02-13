@@ -103,6 +103,16 @@ The objective of this project is to implement a robot choreography system that e
 
 This project is due on <b>Wednesday, February 19th at 11:59pm CT</b>.
 
+## Bonus Task
+The SPOT robot in our lab would also like to dance! See, it's warming up now!
+
+    <video width="720" muted controls>
+        <source src="/CSCI5551-Spr25/assets/projects/P3/spot_dance.mp4" type="video/mp4">
+    </video>
+
+A bonus task will be to help the SPOT robot execute more dancing poses in a sequence! Please refer to the provided URDF files in P2 to construct the SPOT robot in simulation and use your implementations in P3 to execute the dancing poses. 
+
+Again, the bonus task won't be graded but is highly encouraged for ambitious students. 
 ## Grading
 
 The project is worth a total of 10 points.
