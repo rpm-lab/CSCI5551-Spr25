@@ -43,16 +43,16 @@ The objective of this project is to implement a robot choreography system that e
     - You should complete the stencil for `kineval.applyControls()` in `kineval/kineval_control.js` to enforce the joint angle limits.
 
     - <b> Things to keep in mind for these two files: </b>
-    1. There are many types of joints please make sure you understand these well as this will help you make implementation much quicker:
+    - There are many types of joints please make sure you understand these well as this will help you make implementation much quicker:
         - continuous: rotation about the joint axis with no joint limits
         - revolute: rotation about the joint axis with joint limits
         - prismatic: translation along the joint axis with joint limits
         - fixed: no motion of the joint
-    2. To check the type of a joint, you can check `.type` which will be a lowercase string.
+    - To check the type of a joint, you can check `.type` which will be a lowercase string.
 
-    3. Joint limits can be acquired from using `joint.limit.lower` and `joint.limit.upper`
+    -  Joint limits can be acquired from using `joint.limit.lower` and `joint.limit.upper`
 
-    4. If joint axis rotation is implemented correctly, you should be able to use the 'u' and 'i' keys to move the currently active joint. These keys respectively decrement and increment the `.control` field of the active joint. Through the function `kineval.applyControls()`, this control value effectively adds an angular displacement to the joint angle.
+    -  If joint axis rotation is implemented correctly, you should be able to use the 'u' and 'i' keys to move the currently active joint. These keys respectively decrement and increment the `.control` field of the active joint. Through the function `kineval.applyControls()`, this control value effectively adds an angular displacement to the joint angle.
 
 
     <video width="720" muted controls>
