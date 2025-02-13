@@ -13,11 +13,13 @@ nav_order: 1
 <b> Please DO NOT distribute project material or solutions online (e.g. public GitHub repositories). We take violations of the honor code very seriously. </b>
 
 ## Overview
-The objective of this project is to implement a robot choreography system that executes a dance routine with a Finite State Machine controller over joint angle setpoints.
+The objective of this project is to implement a robot choreography system that executes a dance routine with a Finite State Machine controller over joint angle setpoints. You will be implementing:
 
 - Quaternion joint rotation in `kineval/kineval_quaternion.js` (for quaternion functions) and "kineval/kineval_forward_kinematics" (to add axis-angle joint rotation to existing kinematic traversal)
-    - Joint limit enforcement in `kineval/kineval_controls.js`
-    - Prismatic joint implementation in `kineval/kineval_forward_kinematics.js`
+
+- Joint limit enforcement in `kineval/kineval_controls.js`
+
+- Prismatic joint implementation in `kineval/kineval_forward_kinematics.js`
 
 - Interactive base control vectors in `kineval/kineval_forward_kinematics.js`
 
