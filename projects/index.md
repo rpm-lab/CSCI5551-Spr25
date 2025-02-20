@@ -35,11 +35,13 @@ Matrices, Robot Models, and Forward Kinematics
 
 Robot Choreography with Joint States, Controls, and Finite State Machines
 
-<!-- 
+
 
 ## [Project 4](/CSCI5551-Spr25/projects/project4/)
 
 Pseudoinverse, Jacobian, and Inverse Kinematics
+
+<!-- 
 
 ## [Project 5](/CSCI5551-Spr25/projects/project5/)
 
