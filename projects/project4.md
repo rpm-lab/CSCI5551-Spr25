@@ -24,7 +24,7 @@ For this assignment, you will now control your robot to reach a given point in s
 ## Instructions
 
 1. <b>Start with your solutions to project 3</b>
-    - Solutions to project 3 will be released on 02/18/2023 (Sun), 3 days after project 3 is due. You can also use the released solution as your starting point.
+    - Solutions to project 3 will be released on 02/23/2025 (Sun), 3 days after project 3 is due. You can also use the released solution as your starting point.
 
 2. <b>Matrix pseudoinverse function in `kineval/kineval_matrix.js.`</b>
 
