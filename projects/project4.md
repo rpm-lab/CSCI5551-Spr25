@@ -83,6 +83,9 @@ For this assignment, you will now control your robot to reach a given point in s
 
 This project is due on <b>Wednesday, March 5th at 11:59pm CT</b>.
 
+## Bonus Task
+As a graduate-level course, it is uncommon to have no task involving paper reading! Therefore, for the ambitious students, the bonus task for this project is to implement another inverse-kinematics method called "Cyclic Coordinate Descent" (CCD). Please read the paper at [https://ieeexplore.ieee.org/document/86079] and implement the method.
+
 ## Grading
 
 The project is worth a total of 10 points.
