@@ -41,12 +41,12 @@ Robot Choreography with Joint States, Controls, and Finite State Machines
 
 Pseudoinverse, Jacobian, and Inverse Kinematics
 
-<!-- 
+
 
 ## [Project 5](/CSCI5551-Spr25/projects/project5/)
 
 RRT, Configuration Space, and Collision Detection
 
-## [Project 6](/CSCI5551-Spr25/projects/project6/) -->
+<!-- ## [Project 6](/CSCI5551-Spr25/projects/project6/)
 
-<!-- Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines. -->
+ Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines. -->
