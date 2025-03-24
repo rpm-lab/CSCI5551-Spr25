@@ -3,7 +3,6 @@ layout: page
 title: Project 6
 parent: Projects
 nav_order: 1
-nav_exclude: true
 ---
  
 # Project 6
@@ -20,8 +19,7 @@ For this assignment, you will implement mobile manipulation using concepts you h
 ## Instructions
 
 1. <b>Start with your solutions to project 5</b>
-    - Solutions to project 5 will be released on 3/24/2024 (Sun). You can also start from here.
-    - You must download 4 updated files to add support for mobile manipulation: `home.html`, `kineval/kineval.js`, `kineval/kineval_mobile_manipulate.js`, and `worlds/world_mobile_manipulate.js` [Download](/CSCI5551-Spr24/assets/projects/P6/updated.zip)
+    - Solutions to project 5 will be released on Thursday 3/27/2025. You can also start from here.
     - You should see the red cube and blue goal bubble at `http://localhost:8000/home.html?world=worlds/world_mobile_manipulate.js`.
 
 2. <b>Finite State Machine Controller</b>
@@ -74,12 +72,12 @@ For this assignment, you will implement mobile manipulation using concepts you h
     - The autograder is available at [https://cse-ag-csci5551.cse.umn.edu/](https://cse-ag-csci5551.cse.umn.edu/)
 
 <video width="720" muted controls>
-    <source src="/CSCI5551-Spr24/assets/projects/P6/mobile_manipulate_rerender.mp4" type="video/mp4">
+    <source src="/CSCI5551-Spr25/assets/projects/P6/mobile_manipulate_rerender.mp4" type="video/mp4">
 </video>
 
 ## Deadline
 
-This project is due on <b>Wednesday, March 27th at 11:59pm CT</b>.
+This project is due on <b>Monday, March 31st at 11:59pm CT</b>.
 
 ## Grading
 
