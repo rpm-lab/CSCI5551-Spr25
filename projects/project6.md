@@ -77,7 +77,7 @@ For this assignment, you will implement mobile manipulation using concepts you h
 
 ## Deadline
 
-This project is due on <b>Monday, March 31st at 11:59pm CT</b>.
+This project is due on <b>Wendesday, April 2nd at 11:59pm CT</b>.
 
 ## Grading
 
