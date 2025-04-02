@@ -50,3 +50,7 @@ RRT, Configuration Space, and Collision Detection
 ## [Project 6](/CSCI5551-Spr25/projects/project6/)
 
  Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines.
+
+## [Final Project](/CSCI5551-Spr25/projects/finalProject/)
+
+Final Project
