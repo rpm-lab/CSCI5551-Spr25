@@ -1,3 +1,9 @@
+---
+layout: page
+title: Final Project
+parent: Projects
+nav_order: 1
+---
 # Final Project
 ## Disclaimer
 **Please DO NOT distribute or post solutions to this project online (e.g. public GitHub repositories). We take violations of the honor code very seriously.**
