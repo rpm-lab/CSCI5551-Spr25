@@ -8,7 +8,7 @@ nav_order: 1
 
 For this assignment, you will implement localization using a Kalman Filter on a real robot. This is a group assignment, and you will be required to attend two tutorial sessions as a group.
 
-# NOTE: Your whole group will not be graded if any member of the group is missing from the tutorial sessions. Every member of the team must be present for the entire session to receive points for the assignment.
+#### **NOTE: Your whole group will not be graded if any member of the group is missing from the tutorial sessions. Every member of the team must be present for the entire session to receive points for the assignment.**
 
 ## Instructions
 
