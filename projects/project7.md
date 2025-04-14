@@ -23,7 +23,7 @@ Please book slots for the tutorials by(7th April - Monday) here: [Link to Spread
 
 Link to the GitHub repository for the code: [Link to GitHub Repo](https://github.com/RPM-lab-UMN/real_robot_challenge)
 
-Link to Tutorial-1 Presentation: Coming Soon...
+Link to Tutorial-1 Presentation: [Here](https://drive.google.com/file/d/1z792aAIeWMx7lJmaOBvIjnJB_VTH4E-v/view?usp=drive_link)
 
 Link to Tutorial-2 Instructions: [CSCI 5551 Real Robot Challenge Tutorial-2](https://www.notion.so/1c53531a386180fcbfcdedac34028e7d?pvs=21)
 
